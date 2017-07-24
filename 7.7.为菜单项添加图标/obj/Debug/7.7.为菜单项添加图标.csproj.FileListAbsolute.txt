@@ -82,3 +82,4 @@ F:\C# Development\LearnExtension\7.7.为菜单项添加图标\obj\Debug\7.7.为�
 F:\C# Development\LearnExtension\7.7.为菜单项添加图标\obj\Debug\7.7.为菜单项添加图标.pkgdef
 F:\C# Development\LearnExtension\7.7.为菜单项添加图标\obj\Debug\7.7.为菜单项添加图标.latest.pkgdef
 F:\C# Development\LearnExtension\7.7.为菜单项添加图标\obj\Debug\extension.vsixmanifest
+F:\C# Development\LearnExtension\7.7.为菜单项添加图标\obj\Debug\7.7.为菜单项添加图标.csprojResolveAssemblyReference.cache
