@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.15
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.TopLevelMenu", "TopLevelMenu\7.2.TopLevelMenu.csproj", "{0912BB99-0685-4574-A618-041446F4E850}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.IDEToolbar", "8.1.IDEToolbar\8.1.IDEToolbar.csproj", "{DD92B4A5-09E1-4E47-A77B-93D168CDEFC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2.TWToolbar", "8.2.TWToolbar\8.2.TWToolbar.csproj", "{8F3F0F5F-FC7B-4796-9D26-053E1DEB4DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.3.SolutionToolbar", "8.3.SolutionToolbar\8.3.SolutionToolbar.csproj", "{7CF0A8ED-651B-4A08-B414-C62B58DC215A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{8F3F0F5F-FC7B-4796-9D26-053E1DEB4DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3F0F5F-FC7B-4796-9D26-053E1DEB4DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3F0F5F-FC7B-4796-9D26-053E1DEB4DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF0A8ED-651B-4A08-B414-C62B58DC215A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF0A8ED-651B-4A08-B414-C62B58DC215A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF0A8ED-651B-4A08-B414-C62B58DC215A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF0A8ED-651B-4A08-B414-C62B58DC215A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
